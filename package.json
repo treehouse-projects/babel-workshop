@@ -2,13 +2,6 @@
   "name": "treehouse-babel-template",
   "version": "0.0.1",
   "description": "Project template for \"Getting Started with Babel and ES2015\" on Treehouse.",
-  "main": "index.js",
-  "scripts": {
-
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/treehouse/Babel_IsaacLeeMorris.git"
-  },
+  "scripts": {},
   "homepage": "https://github.com/treehouse/Babel_IsaacLeeMorris"
 }
