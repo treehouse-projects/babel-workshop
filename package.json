@@ -5,5 +5,12 @@
   "scripts": {
     "build": "webpack"
   },
-  "homepage": "https://github.com/treehouse/Babel_IsaacLeeMorris"
+  "homepage": "https://github.com/treehouse/Babel_IsaacLeeMorris",
+  "devDependencies": {
+    "babel-core": "^6.7.7",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.7.4",
+    "babel-preset-stage-3": "^6.5.0",
+    "webpack": "^1.13.0"
+  }
 }
